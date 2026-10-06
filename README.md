@@ -58,11 +58,3 @@ The project focuses on providing a visually appealing shopping experience where 
 
 ---
 
-## 📸 Project Preview
-
-_Add screenshots of the Elarix website here._
-
-Example:
-
-```markdown
-![Elarix Homepage](screenshots/homepage.png)
